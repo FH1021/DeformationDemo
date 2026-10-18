@@ -1,0 +1,14 @@
+{
+  "name": "deformation-demo",
+  "version": "1.0.0",
+  "description": "全局变形演示程序：锥化/扭曲/弯曲/FFD 自由变形，支持导入 OBJ 模型",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.4.11",
+    "electron-packager": "^17.1.2"
+  }
+}
